@@ -58,7 +58,6 @@
 - ❓ **[QA System](https://github.com/YashModi2005/QA-system)** - Question-Answering system using NLP
 ---
 
-### 📫 Connect With Me
 
 ### 📫 Connect With Me
 
