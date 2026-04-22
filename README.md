@@ -10,7 +10,7 @@
 - 🔭 Currently working on **Machine Learning & Data Science projects**
 - 🌱 Learning **Deep Learning, Django, and System Design**
 - 💡 Interested in **Predictive Analytics, Web Development, and AI**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **yashumodi2005@gmail.com**
 
 ---
 
@@ -58,9 +58,9 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/yash-modi-2a020b262?utm_source=share_via&utm_content=profile&utm_medium=member_android).
+[![Email]yashumodi2005@gmail.com
+
 
 ---
 
