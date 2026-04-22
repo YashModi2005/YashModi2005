@@ -60,8 +60,10 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/yash-modi-2a020b262?utm_source=share_via&utm_content=profile&utm_medium=member_android).
-[![Email]yashumodi2005@gmail.com
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-modi-2a020b262)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashumodi2005@gmail.com)
 
 
 ---
