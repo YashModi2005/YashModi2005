@@ -54,7 +54,7 @@
 - 📊 **[Student Performance Prediction](https://github.com/YashModi2005/Student_Performance_Prediction)** - Educational analytics
 - 💼 **[Employee Management System](https://github.com/YashModi2005/employee-management-system-django)** - Full-stack Django app
 - 🎯 **[Personalized Career Guidance System](https://github.com/YashModi2005/Personalized-Carrer-guidance-system)** - AI-powered career recommendation system
-- 🏘️ **[Housing Project Basic](https://github.com/YashModi2005/Housing_Project_basic)** - Basic housing price analysis
+- 🏘️ **[Housing Project Basic](https://github.com/YashModi2005/Housing_Project/blob/main/Housing_Project_Basic.ipynb)** - Basic housing price analysis
 - ❓ **[QA System](https://github.com/YashModi2005/QA-system)** - Question-Answering system using NLP
 ---
 
